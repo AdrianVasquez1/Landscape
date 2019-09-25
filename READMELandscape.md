@@ -6,4 +6,4 @@ my landscape drawn by multiple turtles
 - [ ] bad
 
 ######sample of my landscape art
-![Pictures](/Landscape.png)
+![Pictures](/Landscape.PNG)
